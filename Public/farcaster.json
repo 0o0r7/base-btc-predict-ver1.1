@@ -1,0 +1,34 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Base BTC Predict Mini App",
+    "homeUrl": "https://base-btc-predict-ver1.1.vercel.app/",
+    "iconUrl": "https://base-btc-predict-ver1.1.vercel.app/icon.png",
+    "splashImageUrl": "https://base-btc-predict-ver1.1.vercel.app/splash.png",
+    "splashBackgroundColor": "#282c34",
+    "subtitle": "AI-Powered BTC Prediction on Base",
+    "description": "An interactive Mini App for predicting BTC prices and getting AI insights on the Base network.",
+    "screenshotUrls": [],
+    "primaryCategory": "finance",
+    "tags": [
+      "finance",
+      "crypto",
+      "base",
+      "ai",
+      "prediction"
+    ],
+    "heroImageUrl": "https://base-btc-predict-ver1.1.vercel.app/og.png",
+    "tagline": "AI-Powered BTC Predictions on Base",
+    "ogTitle": "Base BTC Predict",
+    "ogDescription": "Predict BTC prices on the Base network.",
+    "ogImageUrl": "https://base-btc-predict-ver1.1.app/og.png"
+  },
+  "farcaster": {
+    "frames": [
+      {
+        "path": "/"
+      }
+    ]
+  },
+  "noindex": true
+}

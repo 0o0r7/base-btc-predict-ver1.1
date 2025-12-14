@@ -1,0 +1,5 @@
+{
+  "name": "Base BTC Predict",
+  "description": "A 15-minute round BTC price prediction market on Base. Predict UP or DOWN to win ETH.",
+  "requestFramePermissions": []
+}
